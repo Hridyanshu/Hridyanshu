@@ -9,7 +9,7 @@ Expected Year Of Graduation: 2022
 <br>
 
 ## - 🔭 I’m currently working on:
-<p><img alt="Apache Logo" width="50px" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/apacheLogo.jpg" /> ## Apache Web Server Customisation.</p>
+<p><img alt="Apache Logo" width="50px" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/apacheLogo.jpg" /> Apache Web Server Customisation.</p>
 <br>
 
 ## - 🌱 I’m currently learning:
