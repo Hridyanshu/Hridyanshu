@@ -8,8 +8,7 @@ Expected Year Of Graduation: 2022
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hridyanshu&layout=compact)
 
 - 🔭 I’m currently working on:
-<img alt="Apache Logo" width="50px" src="https://images.ctfassets.net/tvfg2m04ppj4/2QRrcCJphjVYqGgAJL31fW/2316ecca9552970ba947bdca41b53320/Apache-Web-Server-Raspberry-Pi.jpg" /> Apache Web Server Customisation. 
-
+<p><img alt="Apache Logo" width="50px" src="https://images.ctfassets.net/tvfg2m04ppj4/2QRrcCJphjVYqGgAJL31fW/2316ecca9552970ba947bdca41b53320/Apache-Web-Server-Raspberry-Pi.jpg" /> Apache Web Server Customisation.</p>
 - 🌱 I’m currently learning:
 <p><img alt="Jenkins" width="80px" height="50px" src="https://www.mitrai.com/wp-content/uploads/2018/04/jenkins-thumb.jpg" />
 <img alt="sonarQube" width="80px" height="50px" src="https://www.sonarsource.com/products/sonarqube/sonarqube.png" />
