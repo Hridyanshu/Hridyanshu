@@ -4,8 +4,8 @@
 I am a student currently pursuing my Bachelor's of Technology in Computer Science Engineering with specialisation in [DevOps](https://aws.amazon.com/devops/what-is-devops/) from [UPES](https://www.upes.ac.in/).
 Expected Year Of Graduation: 2022
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hridyanshu)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hridyanshu&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hridyanshu&theme=vision-friendly-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hridyanshu&layout=compact&theme=vision-friendly-dark)
 <br>
 
 ## - 🔭 I’m currently working on:
