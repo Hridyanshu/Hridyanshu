@@ -11,10 +11,10 @@ Expected Year Of Graduation: 2022
 
 ## - 📫 How to reach me:
 <p>
-<a href="mailto:hridyanshusharma@gmail.com"><img height="50" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/gmailLogo.png"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sharmahridyanshu/"><img height="50" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/instagramLogo.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hridyanshu-sharma-2456356a/"><img height="50" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/linkedinLogo.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Hridyanshu_"><img height="50" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/twitterLogo.png"></a>&nbsp;&nbsp;
+<a href="mailto:hridyanshusharma@gmail.com"><img height="50" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/gmail.jfif"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sharmahridyanshu/"><img height="50" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/instagram.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hridyanshu-sharma-2456356a/"><img height="50" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Hridyanshu_"><img height="50" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/Hridyanshu"><img height="50" src="https://github.com/Hridyanshu/Hridyanshu/blob/master/images/HackerRankLogo.png"></a>&nbsp;&nbsp;
 </p>
 <br>
